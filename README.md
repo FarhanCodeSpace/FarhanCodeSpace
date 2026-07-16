@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Muhammad Farhan 👋</h1>
 
-<h3 align="center">Full-Stack Developer | React, Next.js, NestJS, Python (FastAPI)</h3>
+<h3 align="center">Full-Stack & App Developer | React, Next.js, NestJS, Python (FastAPI)</h3>
 
 <p align="center">
   Currently interning at <b>SafeX Solutions</b>, building real-world AI-powered solutions.
@@ -16,7 +16,7 @@
 
 ### About Me
 
-I'm a full-stack developer who works across the frontend and backend, from building interfaces with React and Next.js to designing APIs and backend logic with NestJS and Python (FastAPI). I like the range that comes with full-stack work, being able to build the thing someone sees and the system behind it.
+I'm a full-stack and app developer who works across web and mobile, from building interfaces with React, Next.js, and React Native, to designing APIs and backend logic with NestJS and Python (FastAPI). I like the range that comes with full-stack work, being able to build the thing someone sees and the system behind it, on both web and mobile.
 
 Alongside my day-to-day development work, I'm building a solid foundation in AI. I've completed Google's **IT Automation with Python** crash course and **AI Fundamentals** course, and I'm continuing through both, with the goal of shipping real AI-powered tools, not just prototypes.
 
