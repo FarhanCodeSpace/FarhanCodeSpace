@@ -71,9 +71,3 @@ A CLI tool that instantly sets up NativeWind v4 for Expo and React Native projec
 
 - Google IT Automation with Python (Crash Course)
 - Google AI Fundamentals
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarhanCodeSpace&show_icons=true&theme=default&hide_title=true" alt="Muhammad Farhan's GitHub stats" />
-</p>
