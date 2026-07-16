@@ -53,8 +53,14 @@ Alongside my day-to-day development work, I'm building a solid foundation in AI.
 
 ### Featured Projects
 
+**[Safex_Weekly-Task-Tracker](https://github.com/FarhanCodeSpace/Safex_Weekly-Task-Tracker)**
+A role-based weekly task tracker for interns, group leaders, and admins. Built with FastAPI, React, and PostgreSQL, with role-based access control.
+
 **[MovieFlix](https://github.com/FarhanCodeSpace/MovieFlix)**
 A React Native and Expo app for discovering, saving, and tracking movies.
+
+**[TOSMS](https://github.com/FarhanCodeSpace/TOSMS)**
+Transport Operations and Safety Management System, a React Native mobile app.
 
 **[setup-nativewind](https://github.com/FarhanCodeSpace/setup-nativewind)**
 A CLI tool that instantly sets up NativeWind v4 for Expo and React Native projects.
@@ -69,5 +75,5 @@ A CLI tool that instantly sets up NativeWind v4 for Expo and React Native projec
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarhanCodeSpace&show_icons=true&theme=default&hide_title=true&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FarhanCodeSpace&show_icons=true&theme=default&hide_title=true" alt="Muhammad Farhan's GitHub stats" />
 </p>
