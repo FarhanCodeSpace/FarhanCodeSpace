@@ -1,7 +1,9 @@
 <div align="center">
 
-  <!-- FUTURISTIC ANIMATED BLUE WATER HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f3ff,0077ff,00bfff&height=200&section=header&text=MUHAMMAD%20FARHAN&fontSize=42&fontAlign=50&fontAlignY=35&desc=Full-Stack%20%26%20App%20Developer%20%7C%20AI%20Solutions%20Engineer&descSize=17&descAlign=50&descAlignY=60" width="100%" alt="Muhammad Farhan Animated Hero Banner" />
+  <!-- FUTURISTIC ANIMATED HERO BANNER (100% VS CODE MD PREVIEWER & GITHUB COMPATIBLE) -->
+  <a href="https://github.com/FarhanCodeSpace">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2000&pause=600&color=00F3FF&center=true&vCenter=true&repeat=true&width=800&height=75&lines=MUHAMMAD+FARHAN;FULL-STACK+%26+APP+DEVELOPER;AI+SOLUTIONS+ENGINEER" width="100%" alt="Muhammad Farhan Animated Hero Banner" />
+  </a>
 
   <br/><br/>
 
