@@ -1,13 +1,15 @@
 <div align="center">
 
-  <!-- FUTURISTIC ANIMATED HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f3ff,7000ff,ff007f&height=200&section=header&text=MUHAMMAD%20FARHAN&fontSize=42&fontAlign=50&fontAlignY=35&desc=Full-Stack%20%26%20App%20Developer%20%7C%20AI%20Solutions%20Engineer&descSize=17&descAlign=50&descAlignY=60" width="100%" alt="Muhammad Farhan Header" />
+  <!-- FUTURISTIC ANIMATED HERO BANNER (VS CODE & GITHUB COMPATIBLE) -->
+  <a href="https://github.com/FarhanCodeSpace">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2000&pause=600&color=00F3FF&center=true&vCenter=true&repeat=true&width=800&height=75&lines=MUHAMMAD+FARHAN;FULL-STACK+%26+APP+DEVELOPER;AI+SOLUTIONS+ENGINEER" width="100%" alt="Muhammad Farhan Animated Hero Banner" />
+  </a>
 
-  <br/><br/>
+  <br/>
 
-  <!-- MICRO-ANIMATED TYPING HEADER -->
+  <!-- MICRO-ANIMATED TYPING HERO SUBTITLE WITH @ SYMBOL -->
   <a href="https://www.linkedin.com/in/muhammad-farhan-014978275/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2400&pause=800&color=00F3FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Full-Stack+%26+Mobile+App+Developer;Intern+%40+SafeX+Solutions+Building+AI+Tools;React+%7C+Next.js+%7C+NestJS+%7C+FastAPI+%7C+React+Native;Transforming+Ideas+Into+Scalable+Products" alt="Animated Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2400&pause=800&color=00F3FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%40+Intern+%40+SafeX+Solutions+--+Building+AI+Solutions;%E2%9A%A1+Full-Stack+%26+Mobile+App+Developer;%F0%9F%A7%A0+React+%7C+Next.js+%7C+NestJS+%7C+FastAPI+%7C+React+Native;%F0%9F%94%A5+Transforming+Ideas+Into+Scalable+Products" alt="Animated Hero Subtitle" />
   </a>
 
   <br/><br/>
@@ -31,28 +33,31 @@
 
   <br/>
 
-  <!-- GLOWING DIVIDER LINE -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F3FF&height=3&section=header" width="100%" alt="Divider" />
+  <!-- ANIMATED CYBER DIVIDER LINE -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=500&color=00F3FF&center=true&vCenter=true&repeat=true&width=800&height=20&lines=%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90;%E2%9A%A1+%E2%9A%A1+%E2%9A%A1+%E2%9A%A1+%E2%9A%A1+%E2%9A%A1+%E2%9A%A1+%E2%9A%A1+%E2%9A%A1+%E2%9A%A1+%E2%9A%A1+%E2%9A%A1+%E2%9A%A1+%E2%9A%A1+%E2%9A%A1" width="100%" alt="Animated Cyber Divider" />
 
 </div>
 
 <br/>
 
 <!-- ========================================== -->
-<!-- 📡 HUD TERMINAL / ABOUT ME SYSTEM -->
+<!-- 📡 HUD TERMINAL / ABOUT ME SECTION -->
 <!-- ========================================== -->
-<h2>⚡ SYSTEM OPERATIVE // ABOUT ME</h2>
+<div align="left">
+  <!-- ANIMATED TYPING SECTION TITLE -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2000&pause=600&color=00F3FF&center=false&vCenter=true&repeat=true&width=650&height=40&lines=%E2%9A%A1+SYSTEM+OPERATIVE+%2F%2F+ABOUT+ME;%E2%9A%A1+FULL-STACK+%26+AI+ENGINEER" alt="Animated Section Title" />
+</div>
 
 ```javascript
 const Farhan = {
+  role: "Full-Stack & App Developer",
+  status: "@ SafeX Solutions (AI Solutions Intern)",
   code: ["TypeScript", "JavaScript", "Python"],
-  frontend: ["React", "Next.js", "React Native", "TailwindCSS", "NativeWind"],
-  backend: ["NestJS", "FastAPI", "Node.js", "Express.js"],
+  frontend: ["React", "Next.js", "React Native"],
+  backend: ["NestJS", "FastAPI", "Node.js"],
   database: ["PostgreSQL", "SQLite", "MongoDB"],
-  currentFocus: "Engineering AI-Powered Web & Mobile Products @ SafeX Solutions",
-  certifications: ["Google IT Automation with Python", "Google AI Fundamentals"],
-  architecture: "Clean Code, Scalable APIs, Micro-Animated Seamless UIs",
-  funFact: "Building real-world AI tools that convert raw complex logic into effortless user experiences."
+  certifications: ["Google IT Automation", "Google AI Fundamentals"],
+  mission: "Building real-world AI-powered tools"
 };
 ```
 
@@ -61,17 +66,17 @@ const Farhan = {
     <td width="50%" valign="top">
       <h3>🔭 Current Operations</h3>
       <ul>
-        <li>Building full-stack AI-driven web & mobile systems at <b>SafeX Solutions</b>.</li>
-        <li>Architecting cross-platform apps with <b>React Native</b> & <b>Expo</b>.</li>
-        <li>Developing high-concurrency micro-services with <b>FastAPI</b> & <b>NestJS</b>.</li>
+        <li>⚡ Building full-stack AI-driven web & mobile systems <b>@ SafeX Solutions</b>.</li>
+        <li>🚀 Architecting cross-platform apps with <b>React Native</b> & <b>Expo</b>.</li>
+        <li>🛠️ Developing high-concurrency micro-services with <b>FastAPI</b> & <b>NestJS</b>.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🌱 Active R&D / Learning</h3>
       <ul>
-        <li>Deep-diving into <b>Applied AI</b> and <b>Machine Learning Workflows</b>.</li>
-        <li>Mastering <b>Python Automation</b> pipelines & cloud scripts.</li>
-        <li>Optimizing multi-tier full-stack application performance.</li>
+        <li>🧬 Deep-diving into <b>Applied AI</b> and <b>Machine Learning Workflows</b>.</li>
+        <li>🤖 Mastering <b>Python Automation</b> pipelines & cloud scripts.</li>
+        <li>⚡ Optimizing multi-tier full-stack application performance.</li>
       </ul>
     </td>
   </tr>
@@ -79,15 +84,18 @@ const Farhan = {
 
 <br/>
 
-<!-- GLOWING DIVIDER LINE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00F3FF&height=3&section=header" width="100%" alt="Divider" />
+<!-- ANIMATED CYBER DIVIDER LINE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=500&color=7000FF&center=true&vCenter=true&repeat=true&width=800&height=20&lines=%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90;%F0%9F%9A%80+%F0%9F%9A%80+%F0%9F%9A%80+%F0%9F%9A%80+%F0%9F%9A%80+%F0%9F%9A%80+%F0%9F%9A%80+%F0%9F%9A%80+%F0%9F%9A%80+%F0%9F%9A%80+%F0%9F%9A%80+%F0%9F%9A%80+%F0%9F%9A%80" width="100%" alt="Animated Cyber Divider" />
 
 <br/>
 
 <!-- ========================================== -->
-<!-- 🛠️ TECH STACK MATRIX -->
+<!-- 🛠️ TECH STACK MATRIX SECTION -->
 <!-- ========================================== -->
-<h2>⚙️ TECH STACK MATRIX</h2>
+<div align="left">
+  <!-- ANIMATED TYPING SECTION TITLE -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2000&pause=600&color=FF007F&center=false&vCenter=true&repeat=true&width=650&height=40&lines=%E2%9A%99%EF%B8%8F+TECH+STACK+MATRIX;%E2%9A%99%EF%B8%8F+FULL-STACK+ENGINEERING" alt="Animated Tech Stack Title" />
+</div>
 
 <table width="100%">
   <tr>
@@ -132,15 +140,18 @@ const Farhan = {
 
 <br/>
 
-<!-- GLOWING DIVIDER LINE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00F3FF&height=3&section=header" width="100%" alt="Divider" />
+<!-- ANIMATED CYBER DIVIDER LINE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=500&color=00FF66&center=true&vCenter=true&repeat=true&width=800&height=20&lines=%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90;%F0%9F%92%8E+%F0%9F%92%8E+%F0%9F%92%8E+%F0%9F%92%8E+%F0%9F%92%8E+%F0%9F%92%8E+%F0%9F%92%8E+%F0%9F%92%8E+%F0%9F%92%8E+%F0%9F%92%8E+%F0%9F%92%8E+%F0%9F%92%8E+%F0%9F%92%8E" width="100%" alt="Animated Cyber Divider" />
 
 <br/>
 
 <!-- ========================================== -->
-<!-- 🚀 FEATURED PROJECTS GRID CARDS -->
+<!-- 🚀 FEATURED PROJECTS GRID CARDS SECTION -->
 <!-- ========================================== -->
-<h2>💎 FEATURED PROJECT CARDS</h2>
+<div align="left">
+  <!-- ANIMATED TYPING SECTION TITLE -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2000&pause=600&color=00FF66&center=false&vCenter=true&repeat=true&width=650&height=40&lines=%F0%9F%92%8E+FEATURED+PROJECTS;%F0%9F%92%8E+PRODUCTION+REPOSITORIES" alt="Animated Projects Title" />
+</div>
 
 <table width="100%">
   <tr>
@@ -154,6 +165,10 @@ const Farhan = {
           <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
           <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
           <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        </p>
+        <p>
+          <img src="https://img.shields.io/github/stars/FarhanCodeSpace/Safex_Weekly-Task-Tracker?style=for-the-badge&logo=github&color=00f3ff&labelColor=080b10" />
+          <img src="https://img.shields.io/github/forks/FarhanCodeSpace/Safex_Weekly-Task-Tracker?style=for-the-badge&logo=github&color=ff007f&labelColor=080b10" />
         </p>
         <a href="https://github.com/FarhanCodeSpace/Safex_Weekly-Task-Tracker">
           <img src="https://img.shields.io/badge/View_Repository-00F3FF?style=for-the-badge&logo=github&logoColor=black" />
@@ -170,6 +185,10 @@ const Farhan = {
           <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
           <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        </p>
+        <p>
+          <img src="https://img.shields.io/github/stars/FarhanCodeSpace/MovieFlix?style=for-the-badge&logo=github&color=00f3ff&labelColor=080b10" />
+          <img src="https://img.shields.io/github/forks/FarhanCodeSpace/MovieFlix?style=for-the-badge&logo=github&color=ff007f&labelColor=080b10" />
         </p>
         <a href="https://github.com/FarhanCodeSpace/MovieFlix">
           <img src="https://img.shields.io/badge/View_Repository-FF007F?style=for-the-badge&logo=github&logoColor=white" />
@@ -189,6 +208,10 @@ const Farhan = {
           <img src="https://img.shields.io/badge/Mobile_App-7000FF?style=flat-square&logo=android&logoColor=white" />
           <img src="https://img.shields.io/badge/Safety_Tech-00FF66?style=flat-square&logo=shield&logoColor=black" />
         </p>
+        <p>
+          <img src="https://img.shields.io/github/stars/FarhanCodeSpace/TOSMS?style=for-the-badge&logo=github&color=00f3ff&labelColor=080b10" />
+          <img src="https://img.shields.io/github/forks/FarhanCodeSpace/TOSMS?style=for-the-badge&logo=github&color=ff007f&labelColor=080b10" />
+        </p>
         <a href="https://github.com/FarhanCodeSpace/TOSMS">
           <img src="https://img.shields.io/badge/View_Repository-7000FF?style=for-the-badge&logo=github&logoColor=white" />
         </a>
@@ -205,6 +228,10 @@ const Farhan = {
           <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js&logoColor=white" />
           <img src="https://img.shields.io/badge/NativeWind_v4-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" />
         </p>
+        <p>
+          <img src="https://img.shields.io/github/stars/FarhanCodeSpace/setup-nativewind?style=for-the-badge&logo=github&color=00f3ff&labelColor=080b10" />
+          <img src="https://img.shields.io/github/forks/FarhanCodeSpace/setup-nativewind?style=for-the-badge&logo=github&color=ff007f&labelColor=080b10" />
+        </p>
         <a href="https://github.com/FarhanCodeSpace/setup-nativewind">
           <img src="https://img.shields.io/badge/View_Repository-00FF66?style=for-the-badge&logo=github&logoColor=black" />
         </a>
@@ -215,15 +242,18 @@ const Farhan = {
 
 <br/>
 
-<!-- GLOWING DIVIDER LINE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00F3FF&height=3&section=header" width="100%" alt="Divider" />
+<!-- ANIMATED CYBER DIVIDER LINE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=500&color=7000FF&center=true&vCenter=true&repeat=true&width=800&height=20&lines=%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90;%F0%9F%8F%86+%F0%9F%8F%86+%F0%9F%8F%86+%F0%9F%8F%86+%F0%9F%8F%86+%F0%9F%8F%86+%F0%9F%8F%86+%F0%9F%8F%86+%F0%9F%8F%86+%F0%9F%8F%86+%F0%9F%8F%86" width="100%" alt="Animated Cyber Divider" />
 
 <br/>
 
 <!-- ========================================== -->
 <!-- 📜 CERTIFICATIONS & CREDENTIALS VAULT -->
 <!-- ========================================== -->
-<h2>🏆 CERTIFICATIONS & HOLOGRAPHIC CREDENTIALS</h2>
+<div align="left">
+  <!-- ANIMATED TYPING SECTION TITLE -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2000&pause=600&color=7000FF&center=false&vCenter=true&repeat=true&width=650&height=40&lines=%F0%9F%8F%86+CREDENTIALS+VAULT;%F0%9F%8F%86+GOOGLE+CERTIFICATIONS" alt="Animated Certifications Title" />
+</div>
 
 <table width="100%">
   <tr>
@@ -246,49 +276,55 @@ const Farhan = {
 
 <br/>
 
-<!-- GLOWING DIVIDER LINE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00F3FF&height=3&section=header" width="100%" alt="Divider" />
+<!-- ANIMATED CYBER DIVIDER LINE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=500&color=00F3FF&center=true&vCenter=true&repeat=true&width=800&height=20&lines=%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90;%F0%9F%93%8A+%F0%9F%93%8A+%F0%9F%93%8A+%F0%9F%93%8A+%F0%9F%93%8A+%F0%9F%93%8A+%F0%9F%93%8A+%F0%9F%93%8A+%F0%9F%93%8A+%F0%9F%93%8A" width="100%" alt="Animated Cyber Divider" />
 
 <br/>
 
 <!-- ========================================== -->
 <!-- 📊 DYNAMIC GITHUB STATS & METRICS -->
 <!-- ========================================== -->
-<h2>📊 NEURAL ACTIVITY & GITHUB METRICS</h2>
+<div align="left">
+  <!-- ANIMATED TYPING SECTION TITLE -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2000&pause=600&color=00F3FF&center=false&vCenter=true&repeat=true&width=650&height=40&lines=%F0%9F%93%8A+NEURAL+METRICS;%F0%9F%93%8A+LIVE+GITHUB+ACTIVITY" alt="Animated Metrics Title" />
+</div>
 
 <div align="center">
   <table width="100%">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=FarhanCodeSpace&show_icons=true&theme=tokyonight&hide_border=false&border_color=00F3FF&bg_color=0B0F19&title_color=00F3FF&icon_color=FF007F&text_color=E6F1FF" width="100%" alt="Farhan's GitHub Stats" />
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=FarhanCodeSpace&show_icons=true&theme=tokyonight&hide_border=false&border_color=00F3FF&bg_color=0B0F19&title_color=00F3FF&icon_color=FF007F&text_color=E6F1FF" width="100%" alt="Farhan's Animated GitHub Stats" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarhanCodeSpace&layout=compact&theme=tokyonight&hide_border=false&border_color=00F3FF&bg_color=0B0F19&title_color=00F3FF&text_color=E6F1FF" width="100%" alt="Top Languages" />
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FarhanCodeSpace&layout=compact&theme=tokyonight&hide_border=false&border_color=00F3FF&bg_color=0B0F19&title_color=00F3FF&text_color=E6F1FF" width="100%" alt="Animated Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarhanCodeSpace&theme=tokyonight&hide_border=false&border_color=00F3FF&background=0B0F19&stroke=00F3FF&ring=FF007F&fire=FF007F&currStreakLabel=00F3FF" width="95%" alt="GitHub Streak" />
+  <!-- ANIMATED STREAK STATS WITH PULSING FIRE & RINGS -->
+  <img src="https://streak-stats.demolab.com/?user=FarhanCodeSpace&theme=tokyonight" width="95%" alt="Animated GitHub Streak" />
 </div>
 
 <br/>
 
-<!-- GLOWING DIVIDER LINE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00F3FF&height=3&section=header" width="100%" alt="Divider" />
+<!-- ANIMATED CYBER DIVIDER LINE -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1500&pause=500&color=FF007F&center=true&vCenter=true&repeat=true&width=800&height=20&lines=%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90%E2%95%90;%F0%9F%93%AB+%F0%9F%93%AB+%F0%9F%93%AB+%F0%9F%93%AB+%F0%9F%93%AB+%F0%9F%93%AB+%F0%9F%93%AB+%F0%9F%93%AB+%F0%9F%93%AB+%F0%9F%93%AB" width="100%" alt="Animated Cyber Divider" />
 
 <br/>
 
 <!-- ========================================== -->
-<!-- 🤝 CONNECT & FOOTER -->
+<!-- 🤝 CONNECT & ANIMATED FOOTER -->
 <!-- ========================================== -->
 <div align="center">
 
   <h2>📫 INITIATE NEURAL LINK</h2>
-  <p>Let's collaborate on high-impact full-stack applications, mobile apps, or AI-powered solutions!</p>
+  
+  <!-- ANIMATED TYPING CYBER QUOTE -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2500&pause=800&color=00FF66&center=true&vCenter=true&repeat=true&width=750&height=35&lines=%22Converting+raw+complex+logic+into+effortless+user+experiences.%22;%22Building+the+next+generation+of+AI-powered+web+%26+mobile+tools.%22" alt="Animated Cyber Quote" />
 
-  <br/>
+  <br/><br/>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/muhammad-farhan-014978275/">
@@ -305,9 +341,6 @@ const Farhan = {
   </p>
 
   <br/>
-
-  <!-- FOOTER CAPSULE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff007f,7000ff,00f3ff&height=120&section=footer" width="100%" alt="Futuristic Footer Wave" />
 
   <p>⚡ <i>Designed & Engineered with Cyber-Precision by <b>Muhammad Farhan</b></i> ⚡</p>
 
