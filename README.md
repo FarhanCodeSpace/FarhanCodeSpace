@@ -1,33 +1,38 @@
 <div align="center">
 
   <!-- FUTURISTIC ANIMATED HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,12,24&height=220&section=header&text=MUHAMMAD%20FARHAN&fontSize=48&fontAlign=50&fontAlignY=36&desc=%E2%9A%A1%20FULL-STACK%20%26%20APP%20DEVELOPER%20%7C%20AI%20SOLUTIONS%20ENGINEER%20%E2%9A%A1&descSize=16&descAlign=50&descAlignY=64&stroke=00f3ff&strokeWidth=1" width="100%" alt="Muhammad Farhan Futuristic Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f3ff,7000ff,ff007f&height=200&section=header&text=MUHAMMAD%20FARHAN&fontSize=42&fontAlign=50&fontAlignY=35&desc=Full-Stack%20%26%20App%20Developer%20%7C%20AI%20Solutions%20Engineer&descSize=17&descAlign=50&descAlignY=60" width="100%" alt="Muhammad Farhan Header" />
 
-  <br/>
+  <br/><br/>
 
   <!-- MICRO-ANIMATED TYPING HEADER -->
-  <a href="https://linkedin.com/in/muhammad-farhan-014978275/">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=800&color=00F3FF&center=true&vCenter=true&repeat=true&width=800&height=50&lines=%E2%9A%A1+Full-Stack+%26+Mobile+App+Developer;%F0%9F%9A%80+Intern+%40+SafeX+Solutions+Building+AI+Systems;%F0%9F%A7%A0+React+%7C+Next.js+%7C+NestJS+%7C+FastAPI+%7C+React+Native;%F0%9F%94%A5+Transforming+Ideas+Into+Scalable+Digital+Products" alt="Animated Typing Header" />
+  <a href="https://www.linkedin.com/in/muhammad-farhan-014978275/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2400&pause=800&color=00F3FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Full-Stack+%26+Mobile+App+Developer;Intern+%40+SafeX+Solutions+Building+AI+Tools;React+%7C+Next.js+%7C+NestJS+%7C+FastAPI+%7C+React+Native;Transforming+Ideas+Into+Scalable+Products" alt="Animated Typing Header" />
   </a>
 
-  <br/>
+  <br/><br/>
 
   <!-- QUICK CONNECT & PROFILE VIEWS BADGES -->
   <p align="center">
     <a href="https://www.linkedin.com/in/muhammad-farhan-014978275/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080B10" alt="LinkedIn Badge" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
     </a>
+    &nbsp;
     <a href="https://github.com/FarhanCodeSpace">
-      <img src="https://img.shields.io/badge/GitHub-FarhanCodeSpace-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=080B10" alt="GitHub Badge" />
+      <img src="https://img.shields.io/badge/GitHub-FarhanCodeSpace-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
     </a>
+    &nbsp;
     <a href="mailto:farhancodespace@gmail.com">
-      <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080B10" alt="Email Badge" />
+      <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=FarhanCodeSpace&label=PROFILE+VIEWS&color=00F3FF&style=for-the-badge" alt="Profile Views" />
+    &nbsp;
+    <img src="https://komarev.com/ghpvc/?username=FarhanCodeSpace&label=PROFILE+VIEWS&color=00f3ff&style=for-the-badge" alt="Profile Views" />
   </p>
 
-  <!-- ANIMATED NEON DIVIDER -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Glowing Cyber Line" />
+  <br/>
+
+  <!-- GLOWING DIVIDER LINE -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00F3FF&height=3&section=header" width="100%" alt="Divider" />
 
 </div>
 
@@ -36,7 +41,7 @@
 <!-- ========================================== -->
 <!-- 📡 HUD TERMINAL / ABOUT ME SYSTEM -->
 <!-- ========================================== -->
-<h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ⚡ SYSTEM OPERATIVE // ABOUT ME</h2>
+<h2>⚡ SYSTEM OPERATIVE // ABOUT ME</h2>
 
 ```javascript
 const Farhan = {
@@ -74,8 +79,8 @@ const Farhan = {
 
 <br/>
 
-<!-- ANIMATED NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Glowing Cyber Line" />
+<!-- GLOWING DIVIDER LINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F3FF&height=3&section=header" width="100%" alt="Divider" />
 
 <br/>
 
@@ -127,8 +132,8 @@ const Farhan = {
 
 <br/>
 
-<!-- ANIMATED NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Glowing Cyber Line" />
+<!-- GLOWING DIVIDER LINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F3FF&height=3&section=header" width="100%" alt="Divider" />
 
 <br/>
 
@@ -210,8 +215,8 @@ const Farhan = {
 
 <br/>
 
-<!-- ANIMATED NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Glowing Cyber Line" />
+<!-- GLOWING DIVIDER LINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F3FF&height=3&section=header" width="100%" alt="Divider" />
 
 <br/>
 
@@ -241,8 +246,8 @@ const Farhan = {
 
 <br/>
 
-<!-- ANIMATED NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Glowing Cyber Line" />
+<!-- GLOWING DIVIDER LINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F3FF&height=3&section=header" width="100%" alt="Divider" />
 
 <br/>
 
@@ -270,8 +275,8 @@ const Farhan = {
 
 <br/>
 
-<!-- ANIMATED NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Glowing Cyber Line" />
+<!-- GLOWING DIVIDER LINE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F3FF&height=3&section=header" width="100%" alt="Divider" />
 
 <br/>
 
@@ -302,7 +307,7 @@ const Farhan = {
   <br/>
 
   <!-- FOOTER CAPSULE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,10,2,0&height=120&section=footer" width="100%" alt="Futuristic Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff007f,7000ff,00f3ff&height=120&section=footer" width="100%" alt="Futuristic Footer Wave" />
 
   <p>⚡ <i>Designed & Engineered with Cyber-Precision by <b>Muhammad Farhan</b></i> ⚡</p>
 
