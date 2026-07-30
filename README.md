@@ -1,15 +1,13 @@
 <div align="center">
 
-  <!-- FUTURISTIC ANIMATED HERO BANNER (VS CODE & GITHUB COMPATIBLE) -->
-  <a href="https://github.com/FarhanCodeSpace">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=34&duration=2000&pause=600&color=00F3FF&center=true&vCenter=true&repeat=true&width=800&height=75&lines=MUHAMMAD+FARHAN;FULL-STACK+%26+APP+DEVELOPER;AI+SOLUTIONS+ENGINEER" width="100%" alt="Muhammad Farhan Animated Hero Banner" />
-  </a>
+  <!-- FUTURISTIC ANIMATED BLUE WATER HERO BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f3ff,0077ff,00bfff&height=200&section=header&text=MUHAMMAD%20FARHAN&fontSize=42&fontAlign=50&fontAlignY=35&desc=Full-Stack%20%26%20App%20Developer%20%7C%20AI%20Solutions%20Engineer&descSize=17&descAlign=50&descAlignY=60" width="100%" alt="Muhammad Farhan Animated Hero Banner" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- MICRO-ANIMATED TYPING HERO SUBTITLE WITH @ SYMBOL -->
+  <!-- MICRO-ANIMATED TYPING HERO SUBTITLE -->
   <a href="https://www.linkedin.com/in/muhammad-farhan-014978275/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2400&pause=800&color=00F3FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=%40+Intern+%40+SafeX+Solutions+--+Building+AI+Solutions;%E2%9A%A1+Full-Stack+%26+Mobile+App+Developer;%F0%9F%A7%A0+React+%7C+Next.js+%7C+NestJS+%7C+FastAPI+%7C+React+Native;%F0%9F%94%A5+Transforming+Ideas+Into+Scalable+Products" alt="Animated Hero Subtitle" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2400&pause=800&color=00F3FF&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Intern+%40+SafeX+Solutions+--+Building+AI+Solutions;%E2%9A%A1+Full-Stack+%26+Mobile+App+Developer;%F0%9F%A7%A0+React+%7C+Next.js+%7C+NestJS+%7C+FastAPI+%7C+React+Native;%F0%9F%94%A5+Transforming+Ideas+Into+Scalable+Products" alt="Animated Hero Subtitle" />
   </a>
 
   <br/><br/>
@@ -51,7 +49,7 @@
 ```javascript
 const Farhan = {
   role: "Full-Stack & App Developer",
-  status: "@ SafeX Solutions (AI Solutions Intern)",
+  status: "Intern @ SafeX Solutions (AI Solutions)",
   code: ["TypeScript", "JavaScript", "Python"],
   frontend: ["React", "Next.js", "React Native"],
   backend: ["NestJS", "FastAPI", "Node.js"],
@@ -286,25 +284,25 @@ const Farhan = {
 <!-- ========================================== -->
 <div align="left">
   <!-- ANIMATED TYPING SECTION TITLE -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=2000&pause=600&color=00F3FF&center=false&vCenter=true&repeat=true&width=650&height=40&lines=%F0%9F%93%8A+NEURAL+METRICS;%F0%9F%93%8A+LIVE+GITHUB+ACTIVITY" alt="Animated Metrics Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=22&duration=2000&pause=600&color=00F3FF&center=false&vCenter=true&repeat=true&width=750&height=45&lines=%F0%9F%93%8A+NEURAL+METRICS;%F0%9F%93%8A+LIVE+GITHUB+ACTIVITY" alt="Animated Metrics Title" />
 </div>
 
 <div align="center">
-  <table width="100%">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=FarhanCodeSpace&show_icons=true&theme=tokyonight&hide_border=false&border_color=00F3FF&bg_color=0B0F19&title_color=00F3FF&icon_color=FF007F&text_color=E6F1FF" width="100%" alt="Farhan's Animated GitHub Stats" />
+      <td align="center" width="50%" style="border:none;">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=FarhanCodeSpace&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="Farhan's Animated GitHub Stats" />
       </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FarhanCodeSpace&layout=compact&theme=tokyonight&hide_border=false&border_color=00F3FF&bg_color=0B0F19&title_color=00F3FF&text_color=E6F1FF" width="100%" alt="Animated Top Languages" />
+      <td align="center" width="50%" style="border:none;">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=FarhanCodeSpace&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Animated Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- ANIMATED STREAK STATS WITH PULSING FIRE & RINGS -->
-  <img src="https://streak-stats.demolab.com/?user=FarhanCodeSpace&theme=tokyonight" width="95%" alt="Animated GitHub Streak" />
+  <!-- ANIMATED GITHUB CONTRIBUTION ACTIVITY GRAPH WAVE -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarhanCodeSpace&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Animated Contribution Activity Graph" />
 </div>
 
 <br/>
@@ -343,5 +341,10 @@ const Farhan = {
   <br/>
 
   <p>⚡ <i>Designed & Engineered with Cyber-Precision by <b>Muhammad Farhan</b></i> ⚡</p>
+
+  <br/>
+
+  <!-- ANIMATED BLUE WATER WAVING LAYERS FOOTER BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00f3ff,0077ff,00bfff&height=120&section=footer" width="100%" alt="Animated Blue Waving Water Footer" />
 
 </div>
